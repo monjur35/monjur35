@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monjur35
-- 👀 I’m interested in Android Developing
+- 👀 I’m interested in Android app developing
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on any android Project
 - 📫 How to reach me ... monjur65@gmail.com
