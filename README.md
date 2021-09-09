@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monjur35
 - 👀 I’m interested in Android app developing
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning KOTLIN
 - 💞️ I’m looking to collaborate on any android Project
 - 📫 How to reach me ... monjubabu65@gmail.com
 
