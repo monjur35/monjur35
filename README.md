@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monjur35
 - 👀 I’m interested in Mobile app developing
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning IOS development 
 - 💞️ I’m looking to collaborate on any android Project
 - 📫 How to reach me ... monjubabu65@gmail.com
 
