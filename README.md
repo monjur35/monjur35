@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monjur35
-- 👀 I’m interested in Mobile app developing
+- 👀 I’m a professional Android app developer
 - 🌱 I’m currently learning IOS development and Jetpack component
 - 💞️ I’m looking to collaborate on any android Project in java or kotlin
 - 📫 How to reach me ... monjubabu65@gmail.com
