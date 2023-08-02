@@ -1,3 +1,4 @@
+- -![](https://komarev.com/ghpvc/?username=monjur35)
 - 👋 Hi, I’m @monjur35 / @monjurCEL
 - 👀 I’m a professional Android app developer
 - 🌱 I’m currently learning IOS development and Jetpack compose
